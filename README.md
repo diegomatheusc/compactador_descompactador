@@ -1,4 +1,4 @@
-# Compactador de Descompactador de arquivos
+# Compactador e Descompactador de arquivos
 
 Script criado em Shell, para realizar a compactação de arquivos de maneira segura.
 
