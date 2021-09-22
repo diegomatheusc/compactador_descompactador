@@ -6,4 +6,4 @@ Script criado em Shell, para realizar a compactação de arquivos de maneira seg
 - A indicação do arquivo acontece através do nome do diretório.
 - O arquivo compactado terá como destino o **mesmo** diretório do arquivo original.
 - O arquivo original **não será deletado**.
-- Código aberto a mudanças ;)
+
